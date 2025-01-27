@@ -217,4 +217,4 @@ client.on('ready', () => {
 });
 
 
-client.login('MTMzMjI4ODk3MTU1MTU0MzMxNg.GJAxIr.-u0B-QsqgNToxYrVczaByl54sIj4XP1EU4Glno')
+client.login('توكن البوت')
